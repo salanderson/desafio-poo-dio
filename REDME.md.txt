@@ -1,8 +1,8 @@
 --Desafio aprenda na pratica programaçao orientada a objetos--
 
 PASSO A PASSO
-1. Abstrair dominio Bootcamp e modelar seus atributos e metodos
-2. Criando as classes: Bootcamp, cursos, mentoria e devs e vamos relaciona-las
+1. Abstrair dominio br.com.dio.desafio.dominio.Conteudo.Bootcamp e modelar seus atributos e metodos
+2. Criando as classes: br.com.dio.desafio.dominio.Conteudo.Bootcamp, cursos, mentoria e devs e vamos relaciona-las
 3. Classes cursos, mentoria e devs tambem serao modelados ou seja, criaremos seus atributos e metodos
 4.Para que o codigo fique mais legivel e de facil manutençao, iremos utilizar de algumas das ferramentas que o paradigma de orientaçao a objetos (POO) nos oferece: Abstraçao, encapsulamento, herança e polimorfismo
 5.E para representar classes que foram criadas e relacionadas, iremos transforma-las em objetos.
